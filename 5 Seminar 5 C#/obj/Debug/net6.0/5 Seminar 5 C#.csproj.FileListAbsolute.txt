@@ -1,0 +1,15 @@
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\obj\Debug\net6.0\5 Seminar 5 C#.csproj.AssemblyReference.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\obj\Debug\net6.0\5 Seminar 5 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\obj\Debug\net6.0\5 Seminar 5 C#.AssemblyInfoInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\obj\Debug\net6.0\5 Seminar 5 C#.AssemblyInfo.cs
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\obj\Debug\net6.0\5 Seminar 5 C#.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\bin\Debug\net6.0\5 Seminar 5 C#.exe
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\bin\Debug\net6.0\5 Seminar 5 C#.deps.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\bin\Debug\net6.0\5 Seminar 5 C#.runtimeconfig.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\bin\Debug\net6.0\5 Seminar 5 C#.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\bin\Debug\net6.0\5 Seminar 5 C#.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\obj\Debug\net6.0\5 Seminar 5 C#.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\obj\Debug\net6.0\refint\5 Seminar 5 C#.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\obj\Debug\net6.0\5 Seminar 5 C#.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\obj\Debug\net6.0\5 Seminar 5 C#.genruntimeconfig.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\obj\Debug\net6.0\ref\5 Seminar 5 C#.dll

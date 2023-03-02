@@ -1,0 +1,15 @@
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\bin\Debug\net6.0\2023.02.13_Lecture 4.exe
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\bin\Debug\net6.0\2023.02.13_Lecture 4.deps.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\bin\Debug\net6.0\2023.02.13_Lecture 4.runtimeconfig.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\bin\Debug\net6.0\2023.02.13_Lecture 4.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\bin\Debug\net6.0\2023.02.13_Lecture 4.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\obj\Debug\net6.0\2023.02.13_Lecture 4.csproj.AssemblyReference.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\obj\Debug\net6.0\2023.02.13_Lecture 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\obj\Debug\net6.0\2023.02.13_Lecture 4.AssemblyInfoInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\obj\Debug\net6.0\2023.02.13_Lecture 4.AssemblyInfo.cs
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\obj\Debug\net6.0\2023.02.13_Lecture 4.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\obj\Debug\net6.0\2023.02.13_Lecture 4.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\obj\Debug\net6.0\refint\2023.02.13_Lecture 4.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\obj\Debug\net6.0\2023.02.13_Lecture 4.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\obj\Debug\net6.0\2023.02.13_Lecture 4.genruntimeconfig.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2023.02.13_Lecture 4\obj\Debug\net6.0\ref\2023.02.13_Lecture 4.dll

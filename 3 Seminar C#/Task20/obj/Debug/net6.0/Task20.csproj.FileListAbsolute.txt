@@ -1,0 +1,15 @@
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\bin\Debug\net6.0\Task20.exe
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\bin\Debug\net6.0\Task20.deps.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\bin\Debug\net6.0\Task20.runtimeconfig.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\bin\Debug\net6.0\Task20.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\bin\Debug\net6.0\Task20.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\obj\Debug\net6.0\Task20.csproj.AssemblyReference.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\obj\Debug\net6.0\Task20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\obj\Debug\net6.0\Task20.AssemblyInfoInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\obj\Debug\net6.0\Task20.AssemblyInfo.cs
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\obj\Debug\net6.0\Task20.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\obj\Debug\net6.0\Task20.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\obj\Debug\net6.0\refint\Task20.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\obj\Debug\net6.0\Task20.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\obj\Debug\net6.0\Task20.genruntimeconfig.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\3 Seminar C#\Task20\obj\Debug\net6.0\ref\Task20.dll

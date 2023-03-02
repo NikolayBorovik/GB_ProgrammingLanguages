@@ -1,0 +1,15 @@
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\obj\Debug\net6.0\Iteration1_Task3_WeekDays.csproj.AssemblyReference.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\obj\Debug\net6.0\Iteration1_Task3_WeekDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\obj\Debug\net6.0\Iteration1_Task3_WeekDays.AssemblyInfoInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\obj\Debug\net6.0\Iteration1_Task3_WeekDays.AssemblyInfo.cs
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\obj\Debug\net6.0\Iteration1_Task3_WeekDays.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\bin\Debug\net6.0\Iteration1_Task3_WeekDays.exe
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\bin\Debug\net6.0\Iteration1_Task3_WeekDays.deps.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\bin\Debug\net6.0\Iteration1_Task3_WeekDays.runtimeconfig.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\bin\Debug\net6.0\Iteration1_Task3_WeekDays.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\bin\Debug\net6.0\Iteration1_Task3_WeekDays.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\obj\Debug\net6.0\Iteration1_Task3_WeekDays.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\obj\Debug\net6.0\refint\Iteration1_Task3_WeekDays.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\obj\Debug\net6.0\Iteration1_Task3_WeekDays.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\obj\Debug\net6.0\Iteration1_Task3_WeekDays.genruntimeconfig.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task3_WeekDays\obj\Debug\net6.0\ref\Iteration1_Task3_WeekDays.dll

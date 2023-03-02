@@ -1,0 +1,15 @@
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\obj\Debug\net6.0\Task32.csproj.AssemblyReference.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\obj\Debug\net6.0\Task32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\obj\Debug\net6.0\Task32.AssemblyInfoInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\obj\Debug\net6.0\Task32.AssemblyInfo.cs
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\obj\Debug\net6.0\Task32.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\bin\Debug\net6.0\Task32.exe
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\bin\Debug\net6.0\Task32.deps.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\bin\Debug\net6.0\Task32.runtimeconfig.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\bin\Debug\net6.0\Task32.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\bin\Debug\net6.0\Task32.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\obj\Debug\net6.0\Task32.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\obj\Debug\net6.0\refint\Task32.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\obj\Debug\net6.0\Task32.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\obj\Debug\net6.0\Task32.genruntimeconfig.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\5 Seminar 5 C#\Task32\obj\Debug\net6.0\ref\Task32.dll

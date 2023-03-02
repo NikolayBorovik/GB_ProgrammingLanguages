@@ -1,0 +1,15 @@
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\bin\Debug\net6.0\2 Seminar C#.exe
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\bin\Debug\net6.0\2 Seminar C#.deps.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\bin\Debug\net6.0\2 Seminar C#.runtimeconfig.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\bin\Debug\net6.0\2 Seminar C#.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\bin\Debug\net6.0\2 Seminar C#.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\obj\Debug\net6.0\2 Seminar C#.csproj.AssemblyReference.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\obj\Debug\net6.0\2 Seminar C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\obj\Debug\net6.0\2 Seminar C#.AssemblyInfoInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\obj\Debug\net6.0\2 Seminar C#.AssemblyInfo.cs
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\obj\Debug\net6.0\2 Seminar C#.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\obj\Debug\net6.0\2 Seminar C#.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\obj\Debug\net6.0\refint\2 Seminar C#.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\obj\Debug\net6.0\2 Seminar C#.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\obj\Debug\net6.0\2 Seminar C#.genruntimeconfig.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\2 Seminar C#\obj\Debug\net6.0\ref\2 Seminar C#.dll

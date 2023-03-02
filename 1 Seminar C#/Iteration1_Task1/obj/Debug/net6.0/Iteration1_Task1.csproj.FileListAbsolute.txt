@@ -1,0 +1,15 @@
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\obj\Debug\net6.0\Iteration1_Task1.csproj.AssemblyReference.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\obj\Debug\net6.0\Iteration1_Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\obj\Debug\net6.0\Iteration1_Task1.AssemblyInfoInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\obj\Debug\net6.0\Iteration1_Task1.AssemblyInfo.cs
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\obj\Debug\net6.0\Iteration1_Task1.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\bin\Debug\net6.0\Iteration1_Task1.exe
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\bin\Debug\net6.0\Iteration1_Task1.deps.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\bin\Debug\net6.0\Iteration1_Task1.runtimeconfig.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\bin\Debug\net6.0\Iteration1_Task1.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\bin\Debug\net6.0\Iteration1_Task1.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\obj\Debug\net6.0\Iteration1_Task1.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\obj\Debug\net6.0\refint\Iteration1_Task1.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\obj\Debug\net6.0\Iteration1_Task1.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\obj\Debug\net6.0\Iteration1_Task1.genruntimeconfig.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\1 Seminar C#\Iteration1_Task1\obj\Debug\net6.0\ref\Iteration1_Task1.dll
